@@ -453,22 +453,23 @@ font-size: 30px;
 .Contact{
     width: 1300px;
     height: 340px;
-    margin: 0px 440px;
+    
 }
 .Contact-content-top{
     font-size: 20px;
+    margin: 0 0 0 440px;
 }
 .Contact-content-middle{
     font-size: 40px;
     color: red;
-    margin: 20px 180px;
+    margin: 20px 0 0 650px;
 }
 .Contact-content-bottom_btn{
     position: relative;
         background-color: #E11C7E;
         width: 200px;
         display: block;
-        margin: 0 80px;
+        margin: 10px 0 0 550px;
         text-align: center;
         color: #fff;
         font-size: 16px;
