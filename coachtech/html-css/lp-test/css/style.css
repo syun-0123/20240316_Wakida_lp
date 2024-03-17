@@ -1,12 +1,12 @@
 /*header*/
 header{
     display: flex;
-   width: 1300px;
+   width: 1500px;
    height: 60px; 
 }
 
 .logo{
-    width: 850px;
+    width: 1200px;
 }
 
 .logo img{
@@ -46,7 +46,7 @@ header{
 
 /*fistview*/
 .firstview{
-    width: 1300px;
+    width: 1500px;
     height: 600px;
     position: relative;
 }
@@ -61,7 +61,7 @@ header{
 
 .firstview-title{
 position: absolute;
-left: 200px;
+left: 400px;
 top:80px ;
 margin: 0px 0px 10px 40px;
 }
@@ -97,7 +97,7 @@ margin: 0px 0px 10px 40px;
 
 /*News*/
 .News{
-    width: 1300px;
+    width: 1500px;
     height: 500px;
 }
 
@@ -157,7 +157,7 @@ font-family: "Noto Serif JP", serif;
 
 /*About*/
 .About{
-    width: 1300px;
+    width: 1500px;
     height: 400px;
     background-color: #F5F5F5;
 }
@@ -206,7 +206,7 @@ font-family: "Noto Serif JP", serif;
 /*Service*/
 
 .Service{
-    width: 1300px;
+    width: 1500px;
     height: 610px;
 }
 
@@ -291,7 +291,7 @@ display: flex;
 
 /*Blog*/
 .Blog{
-    width: 1300px;
+    width: 1500px;
     height: 560px;
     background-color: #F5F5F5;
     position: relative;
@@ -378,7 +378,7 @@ display: flex;
 
 /*Canpany*/
 .Canpany{
-    width: 1300px;
+    width: 1500px;
     height: 850px;
 }
 table {
@@ -423,13 +423,13 @@ table th {
     
 }
 .recruit-img img{
-    width: 650px;
+    width: 750px;
     height: 270px;
     
     z-index: 0;
 }
 .interview-img img{
-    width: 650px;
+    width: 750px;
     height: 270px;
     z-index: 0;
     
@@ -451,7 +451,7 @@ font-size: 30px;
 }
 /*Contact*/
 .Contact{
-    width: 1300px;
+    width: 1500px;
     height: 340px;
     
 }
@@ -496,7 +496,7 @@ font-size: 30px;
 
 /*footer*/
 .footer{
-    width: 1300px;
+    width: 1500px;
     height: 45px;
     background-color: #F5F5F5;
     position: relative;
