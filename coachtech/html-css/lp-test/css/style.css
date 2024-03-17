@@ -52,7 +52,7 @@ header{
 }
 
 .firstview-img img{
-    width: 800px;
+    width: 1000px;
     height: 540px;
     float: right;
     
@@ -61,7 +61,7 @@ header{
 
 .firstview-title{
 position: absolute;
-left: 400px;
+left: 200px;
 top:80px ;
 margin: 0px 0px 10px 40px;
 }
